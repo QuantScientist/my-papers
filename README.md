@@ -1,4 +1,4 @@
-# Publication 
+# Publications 
 
 ### (2020) 
 Pulmonary-Nodule Detection Using an Ensemble of 3D SE-ResNet18 and DPN68 Models. In: Image Analysis and Recognition. ICIAR 2020. Lecture Notes in Computer Science. Springer. (PyTorch). https://link.springer.com/chapter/10.1007/978-3-030-50516-5_33
